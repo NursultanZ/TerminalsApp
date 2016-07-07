@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.acer.terminalsapp.MapsActivity>
+    <item
+        android:id="@+id/call"
+        android:orderInCategory="100"
+        android:title=""
+        android:icon="@drawable/phone1"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/db"
+        android:orderInCategory="100"
+        android:title=""
+        android:icon="@drawable/list"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/loc"
+        android:orderInCategory="100"
+        android:title=""
+        android:icon="@drawable/formenu"
+        app:showAsAction="always" />
+
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Терминалы</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Карта</string>
+    <string name="title_activity_call_developer">Позвонить разработчику</string>
+    <string name="title_activity_get_terminals">Терминалы</string>
+    <string name="title_activity_show_page">Терминал</string>
+    <string name="title_activity_show_point">Map</string>
+    <string name="title_activity_mail">MailActivity</string>
+</resources>
